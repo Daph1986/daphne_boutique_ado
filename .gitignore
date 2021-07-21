@@ -1,0 +1,3 @@
+# Exclude VScode created def folders
+.vscode
+env
