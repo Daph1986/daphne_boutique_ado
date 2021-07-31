@@ -2,9 +2,9 @@ from django import forms
 from django.forms import fields
 from .models import Order
 
-class OrderFrom(forms.ModelForm):
+class OrderForm(forms.ModelForm):
     class Meta:
-        modal = Order
+        model = Order
         fields = ('full_name', 'email', 'phone_number',
                   'street_address1', 'street_address2',
                   'town_or_city', 'postcode', 'country',
