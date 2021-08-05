@@ -4,6 +4,7 @@ charset-normalizer==2.0.3
 defusedxml==0.7.1
 Django==3.2.5
 django-allauth==0.41.0
+django-countries==7.2.1
 django-crispy-forms==1.12.0
 env==0.1.0
 flake8==3.9.2
