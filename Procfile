@@ -1,0 +1,1 @@
+web: gunicorn daphne_boutique_ado.wsgi:application
