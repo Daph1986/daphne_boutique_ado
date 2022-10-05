@@ -6,6 +6,6 @@
 
 Walkthrough project for Code Institute for Django - Full Stack Frameworks.
 
-<!-- ## Demo
+## Demo
 
-View the live demo [here](). -->
+Due to changes on Heroku, there is no longer a demo link available.
